@@ -1,0 +1,6 @@
+string firstName = "Paul";
+int widgetsSold = 7;
+Console.WriteLine(firstName + " sold " + (widgetsSold + 7) + " widgets.");
+
+// Lesson: Module 5 unti 1 and 2
+// I leanred how perform Math in code because we dont have enought math in the world already... I guess.
