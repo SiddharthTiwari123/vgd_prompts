@@ -1,0 +1,11 @@
+int value = 1;
+value++;
+Console.WriteLine("First: " + value);
+Console.WriteLine($"Second: {value++}");
+Console.WriteLine("Third: " + value);
+Console.WriteLine("Fourth: " + (++value));
+
+// I learned to use more math in code becuase we need more math.
+// I leanred the sybols for add subtract mulitply and divide.
+// I leanred to Use compound assignment operators like +=,*=,++ and -- 
+// to peform a mathematical operation like increment.
